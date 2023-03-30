@@ -2,7 +2,10 @@
 name = "split_one"
 version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+license-file = "LICENSE"
+description = "A simple trait to allow accessing two parts of a vector mutably at the same time"
+homepage = "https://github.com/hardliner66/split_one"
+repository = "https://github.com/hardliner66/split_one"
+readme = "README.md"
 
 [dependencies]
