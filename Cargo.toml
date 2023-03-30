@@ -1,11 +1,9 @@
 [package]
 name = "split_one"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2021"
 license-file = "LICENSE"
 description = "A simple trait to allow accessing two parts of a vector mutably at the same time"
 homepage = "https://github.com/hardliner66/split_one"
 repository = "https://github.com/hardliner66/split_one"
 readme = "README.md"
-
-[dependencies]
